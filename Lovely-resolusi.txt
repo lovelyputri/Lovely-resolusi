@@ -1,3 +1,4 @@
 LOVELY REOLUSI
 -konsisten dalam mempelajari Laravel
 -Belajar PHP Native
+- tes
